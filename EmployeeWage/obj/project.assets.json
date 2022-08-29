@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\hello\\EmployeeWage\\EmployeeWage.csproj",
+      "projectUniqueName": "C:\\Empwagesprogarm\\EmployeeWage\\EmployeeWage.csproj",
       "projectName": "EmployeeWage",
-      "projectPath": "C:\\hello\\EmployeeWage\\EmployeeWage.csproj",
+      "projectPath": "C:\\Empwagesprogarm\\EmployeeWage\\EmployeeWage.csproj",
       "packagesPath": "C:\\Users\\PCS\\.nuget\\packages\\",
-      "outputPath": "C:\\hello\\EmployeeWage\\obj\\",
+      "outputPath": "C:\\Empwagesprogarm\\EmployeeWage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PCS\\AppData\\Roaming\\NuGet\\NuGet.Config",
