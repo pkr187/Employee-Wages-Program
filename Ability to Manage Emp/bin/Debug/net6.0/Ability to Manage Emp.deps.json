@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ability to Manage Emp/1.0.0": {
+        "runtime": {
+          "Ability to Manage Emp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ability to Manage Emp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

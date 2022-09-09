@@ -1,0 +1,15 @@
+C:\ComputeProgram\Ability to Manage Emp\bin\Debug\net6.0\Ability to Manage Emp.exe
+C:\ComputeProgram\Ability to Manage Emp\bin\Debug\net6.0\Ability to Manage Emp.deps.json
+C:\ComputeProgram\Ability to Manage Emp\bin\Debug\net6.0\Ability to Manage Emp.runtimeconfig.json
+C:\ComputeProgram\Ability to Manage Emp\bin\Debug\net6.0\Ability to Manage Emp.dll
+C:\ComputeProgram\Ability to Manage Emp\bin\Debug\net6.0\Ability to Manage Emp.pdb
+C:\ComputeProgram\Ability to Manage Emp\obj\Debug\net6.0\Ability to Manage Emp.csproj.AssemblyReference.cache
+C:\ComputeProgram\Ability to Manage Emp\obj\Debug\net6.0\Ability to Manage Emp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ComputeProgram\Ability to Manage Emp\obj\Debug\net6.0\Ability to Manage Emp.AssemblyInfoInputs.cache
+C:\ComputeProgram\Ability to Manage Emp\obj\Debug\net6.0\Ability to Manage Emp.AssemblyInfo.cs
+C:\ComputeProgram\Ability to Manage Emp\obj\Debug\net6.0\Ability to Manage Emp.csproj.CoreCompileInputs.cache
+C:\ComputeProgram\Ability to Manage Emp\obj\Debug\net6.0\Ability to Manage Emp.dll
+C:\ComputeProgram\Ability to Manage Emp\obj\Debug\net6.0\refint\Ability to Manage Emp.dll
+C:\ComputeProgram\Ability to Manage Emp\obj\Debug\net6.0\Ability to Manage Emp.pdb
+C:\ComputeProgram\Ability to Manage Emp\obj\Debug\net6.0\Ability to Manage Emp.genruntimeconfig.cache
+C:\ComputeProgram\Ability to Manage Emp\obj\Debug\net6.0\ref\Ability to Manage Emp.dll
