@@ -1,0 +1,5 @@
+C:\ComputeProgram\AbilitytoCompute\obj\Debug\net6.0\AbilitytoCompute.csproj.AssemblyReference.cache
+C:\ComputeProgram\AbilitytoCompute\obj\Debug\net6.0\AbilitytoCompute.GeneratedMSBuildEditorConfig.editorconfig
+C:\ComputeProgram\AbilitytoCompute\obj\Debug\net6.0\AbilitytoCompute.AssemblyInfoInputs.cache
+C:\ComputeProgram\AbilitytoCompute\obj\Debug\net6.0\AbilitytoCompute.AssemblyInfo.cs
+C:\ComputeProgram\AbilitytoCompute\obj\Debug\net6.0\AbilitytoCompute.csproj.CoreCompileInputs.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ComputeProgram\\ComputeEmployee\\ComputeEmployee.csproj": {}
+    "C:\\ComputeProgram\\AbilitytoCompute\\AbilitytoCompute.csproj": {}
   },
   "projects": {
-    "C:\\ComputeProgram\\ComputeEmployee\\ComputeEmployee.csproj": {
+    "C:\\ComputeProgram\\AbilitytoCompute\\AbilitytoCompute.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ComputeProgram\\ComputeEmployee\\ComputeEmployee.csproj",
-        "projectName": "ComputeEmployee",
-        "projectPath": "C:\\ComputeProgram\\ComputeEmployee\\ComputeEmployee.csproj",
+        "projectUniqueName": "C:\\ComputeProgram\\AbilitytoCompute\\AbilitytoCompute.csproj",
+        "projectName": "AbilitytoCompute",
+        "projectPath": "C:\\ComputeProgram\\AbilitytoCompute\\AbilitytoCompute.csproj",
         "packagesPath": "C:\\Users\\PCS\\.nuget\\packages\\",
-        "outputPath": "C:\\ComputeProgram\\ComputeEmployee\\obj\\",
+        "outputPath": "C:\\ComputeProgram\\AbilitytoCompute\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PCS\\AppData\\Roaming\\NuGet\\NuGet.Config",
