@@ -1,0 +1,15 @@
+C:\ComputeProgram\AbilitytoSave\bin\Debug\net6.0\AbilitytoSave.exe
+C:\ComputeProgram\AbilitytoSave\bin\Debug\net6.0\AbilitytoSave.deps.json
+C:\ComputeProgram\AbilitytoSave\bin\Debug\net6.0\AbilitytoSave.runtimeconfig.json
+C:\ComputeProgram\AbilitytoSave\bin\Debug\net6.0\AbilitytoSave.dll
+C:\ComputeProgram\AbilitytoSave\bin\Debug\net6.0\AbilitytoSave.pdb
+C:\ComputeProgram\AbilitytoSave\obj\Debug\net6.0\AbilitytoSave.csproj.AssemblyReference.cache
+C:\ComputeProgram\AbilitytoSave\obj\Debug\net6.0\AbilitytoSave.GeneratedMSBuildEditorConfig.editorconfig
+C:\ComputeProgram\AbilitytoSave\obj\Debug\net6.0\AbilitytoSave.AssemblyInfoInputs.cache
+C:\ComputeProgram\AbilitytoSave\obj\Debug\net6.0\AbilitytoSave.AssemblyInfo.cs
+C:\ComputeProgram\AbilitytoSave\obj\Debug\net6.0\AbilitytoSave.csproj.CoreCompileInputs.cache
+C:\ComputeProgram\AbilitytoSave\obj\Debug\net6.0\AbilitytoSave.dll
+C:\ComputeProgram\AbilitytoSave\obj\Debug\net6.0\refint\AbilitytoSave.dll
+C:\ComputeProgram\AbilitytoSave\obj\Debug\net6.0\AbilitytoSave.pdb
+C:\ComputeProgram\AbilitytoSave\obj\Debug\net6.0\AbilitytoSave.genruntimeconfig.cache
+C:\ComputeProgram\AbilitytoSave\obj\Debug\net6.0\ref\AbilitytoSave.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ComputeProgram\\AbilitytoCompute\\AbilitytoCompute.csproj",
-      "projectName": "AbilitytoCompute",
-      "projectPath": "C:\\ComputeProgram\\AbilitytoCompute\\AbilitytoCompute.csproj",
+      "projectUniqueName": "C:\\ComputeProgram\\AbilitytoSave\\AbilitytoSave.csproj",
+      "projectName": "AbilitytoSave",
+      "projectPath": "C:\\ComputeProgram\\AbilitytoSave\\AbilitytoSave.csproj",
       "packagesPath": "C:\\Users\\PCS\\.nuget\\packages\\",
-      "outputPath": "C:\\ComputeProgram\\AbilitytoCompute\\obj\\",
+      "outputPath": "C:\\ComputeProgram\\AbilitytoSave\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PCS\\AppData\\Roaming\\NuGet\\NuGet.Config",
